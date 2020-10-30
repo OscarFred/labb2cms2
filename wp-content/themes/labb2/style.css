@@ -1,1 +1,56 @@
 /* Theme Name: Labb 2 */
+
+.hero {
+    color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    box-shadow: inset 0 7px 9px -7px rgba(0,0,0,0.8) !important;
+}
+.shadow {
+    box-shadow: inset 0 7px 9px -7px rgba(0,0,0,0.8) !important;
+}
+.half-height-image {
+    height: 50vh !important;
+    box-shadow: inset 0 7px 9px -7px rgba(0,0,0,0.8) !important;
+}
+.karusell {
+    width:100%;
+    height: 50vh !important;
+}
+.carousel-item {
+    box-shadow: inset 0 7px 9px -7px rgba(0,0,0,0.8) !important;
+}
+.parallax {
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner {
+    background-color: goldenrod;
+    min-height: 8vh;
+    box-shadow: inset 0 7px 9px -7px rgba(0,0,0,0.8) !important;
+}
+.img-right {
+    height: 50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: inset 0 7px 9px -7px rgba(0,0,0,0.8);
+}
+.img-left {
+    height: 50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: inset 0 7px 9px -7px rgba(0,0,0,0.8);
+}
+.text-left-img-right {
+    box-shadow: inset 0 7px 9px -7px rgba(0,0,0,0.8);
+}
+.text-right-img-left {
+    box-shadow: inset 0 7px 9px -7px rgba(0,0,0,0.8);
+}
